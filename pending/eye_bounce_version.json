@@ -1,0 +1,15 @@
+{
+  "build": 128,
+  "version": "0.1.28",
+  "download_url": "https://howareyu.booth.pm/items/9081219",
+  "changes": [
+    "ツール名をE-Bounceに統一。既存の設定・プリセットとの互換性を維持。",
+    "瞳サイズキーからの選択を表示中のマテリアルに限定。別マテリアルの選択を確認・解除できます。",
+    "UV選択の再描画と連携検出を軽量化。生成テクスチャのMip Streamingを有効化。"
+  ],
+  "changes_en": [
+    "Rename the tool to E-Bounce while retaining compatibility with saved setups and presets.",
+    "Scope iris-shape selection to the displayed material; show and optionally remove hidden selections.",
+    "Reduce UV repaint allocations and integration reflection; enable mip streaming on generated textures."
+  ]
+}
