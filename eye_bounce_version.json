@@ -1,0 +1,13 @@
+{
+  "build": 1001,
+  "version": "1.0.1",
+  "download_url": "https://howareyu.booth.pm/items/9081219",
+  "changes": [
+    "瞳の揺れを独自の計算式に変更。元サイズ上限と標準強度65％を維持。",
+    "適用済み設定は次回NDMFビルド時に新しい動きで生成。アップロード済みアバターは再アップロードが必要です。"
+  ],
+  "changes_en": [
+    "Replace sampled iris motion with an independently authored oscillator; retain the original-size ceiling and 65% default strength.",
+    "Existing settings generate the new motion on the next NDMF build. Re-upload previously uploaded avatars."
+  ]
+}
