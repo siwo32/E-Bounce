@@ -1,0 +1,12 @@
+*.unitypackage
+*.fbx
+*.blend
+*.asset
+*.mat
+*.png
+*.jpg
+*.mp4
+Assets/
+Library/
+Temp/
+Logs/
